@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>plantProject</title>
     <updated>2022-11-23T10:00:28Z</updated>
     <entry>
         <author>
             <name>Diego</name>
         </author>
-        <title>Exotic plants</title>
-        <link>https://a22diegogp.github.io/plantProject/</link>
-        <updated>2022-06-21T06:08:53Z</updated>
-        <published>2022-06-21T06:07:57Z</published>
-        <summary>Increible plants that you will enjoy.</summary>
-    </entry>
-    <entry>
-        <author>
-            <name>Diego</name>
-        </author>
         <title>Corpse flower</title>
         <link>https://a22diegogp.github.io/plantProject/plant.html</link>
-        <updated>2022-06-21T06:08:53Z</updated>
-        <published>2022-06-21T06:07:57Z</published>
-        <summary>A very big plant that smells horrible.</summary>
+        <updated>2022-11-23T06:08:53Z</updated>
+        <published>2022-11-23T06:07:57Z</published>
+        <content>A very big plant that smells horrible.</content>
     </entry>
 </feed>
