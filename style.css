@@ -5,15 +5,17 @@
     gap: 10px;
   } 
   .image-gallery > li {
-    flex-basis: 350px; /* width: 350px; */
+    flex-basis: 350px;  
+    width: 350px;
   }
   
   .image-gallery li img {
     object-fit: cover;
     max-width: 100%;
-    height: auto;
     vertical-align: middle;
     border-radius: 5px;
+    height: 90%;
+    width: 90%;
   }
   .image-gallery::after {
     content: "";
